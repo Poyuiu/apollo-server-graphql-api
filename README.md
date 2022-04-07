@@ -23,10 +23,10 @@ $ yarn dev
 ```
 
 ### Test
-
 ```bash
 $ yarn test
 ```
+
 or
 #### Standard
 https://standardjs.com/
@@ -50,26 +50,4 @@ Jest config
     "verbose": true,
     "collectCoverage": true
   },
-```
-## MySql
-https://www.mysql.com/
-```
-$ mysql
-```
-
-### Set the MySQL user password 
-```
-mysql> ALTER USER 'user-name'@'localhost' IDENTIFIED BY 'NEW_USER_PASSWORD';
-```
-
-### Creating and Selecting a Database
-
-#### Creating
-```
-mysql> CREATE DATABASE menagerie;
-```
-
-#### Selecting
-```
-mysql> USE menagerie;
 ```
