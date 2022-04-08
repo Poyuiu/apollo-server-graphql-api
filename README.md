@@ -1,5 +1,6 @@
 # Lab Apollo Server Graphql Api
 
+https://docs.google.com/presentation/d/1OIN8puG3Ur1AJRJwnbrGe6Qu6K5Vxe2O7yEihKBnr9M/edit?usp=sharing
 ## Install
 https://classic.yarnpkg.com/lang/en/docs/install/
 
