@@ -1,4 +1,4 @@
-# GraphQL Backend Adventure
+# Lab Apollo Server Graphql Api
 
 ## Install
 https://classic.yarnpkg.com/lang/en/docs/install/
