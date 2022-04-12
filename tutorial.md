@@ -96,9 +96,7 @@ $ yarn install
 │   ├── typedefs
 │   │   └── index.graphql
 │   └── utils
-│       ├── pubsub.js
-│       ├── schema.js
-│       └── subscription.js
+│       └── schema.js
 ├── index.js
 ├── package.json
 └── yarn.lock
