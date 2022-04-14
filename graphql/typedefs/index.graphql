@@ -4,5 +4,9 @@ scalar Date
 type Query {
   # Version
   version: String!
-  
+  typeInt: Int!
+  typeString: String!
+  typeFloat: Float!
+  typeBool: Boolean!
+
 }
