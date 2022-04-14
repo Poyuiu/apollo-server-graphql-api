@@ -68,8 +68,7 @@ yarn remove [package]
 ### 下載
 
 專案下載：
-```
-git clone https://github.com/Daviswww/graphQL-backend-adventure/tree/part1
+``
 ```
 
 用終端機進去資料夾中輸入下面的指令：
